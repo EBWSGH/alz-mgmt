@@ -1,0 +1,7 @@
+configuration_file_path         = "config.yaml"
+default_location                = "uksouth"
+default_postfix                 = "landing-zone"
+root_parent_management_group_id = ""
+subscription_id_connectivity    = "a860a86b-0cbf-4c30-afeb-7aa0e2b6fc2b"
+subscription_id_identity        = "a860a86b-0cbf-4c30-afeb-7aa0e2b6fc2b"
+subscription_id_management      = "a860a86b-0cbf-4c30-afeb-7aa0e2b6fc2b"
